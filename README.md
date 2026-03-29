@@ -1,4 +1,4 @@
-# Hi, I'm [Tom Rhodes] 👋
+# Hi, I'm Tom Rhodes👋
 
 I architect **Agentic Workflows** that bridge the gap between Large Language Models and Enterprise ROI. 
 My focus is on shifting AI from a conversational assistant to a proactive digital employee.
